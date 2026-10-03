@@ -1,0 +1,5 @@
+.idea/
+fitness.db
+__pycache__/
+*.pyc
+t_env/
